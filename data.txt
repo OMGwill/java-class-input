@@ -1,0 +1,9 @@
+1	Larry	50
+2	Joe	20	12345	Computer_Science
+3	Sally	40	40000
+2	Smith	21	23231	Compuer_Security
+1	Mary	32
+3	Michael	49	80000
+2	Amy		23	34343	Information_Tech
+1	John	5
+3	Darren	54	99995	
